@@ -2,6 +2,12 @@
 
 using namespace std;
 
+// enunt: 
+
+// Să se implementeze un algoritm în C/C++ pentru calculul ariei unui trapez când se cunosc
+// baza mică (b), baza mare (B) şi înălţimea (h). De exemplu, pentru b=3, B=6 şi h=5 se
+// obţine A = (B+b)*h/2 = 9*5/2 = 22,5.
+
 int main() {
    double b, B, h, A;
 
